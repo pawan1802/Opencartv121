@@ -1,0 +1,33 @@
+<suite name="MySuite" thread-count="5" parallel="tests">
+
+<listners>
+ <listner class-name="utilities.ExtentReportManager"/>
+ 
+ </listners>
+  
+  <test name="LoginTests1">
+  <parameter name="os" value="Windows"/>
+   <parameter name="browser" value="chrome" />
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+      
+      
+    </classes>
+  </test>
+  <parameter name="os" value="Windows"/>
+  <parameter name="browser" value="edge" />
+   <test name="LoginTests3">
+    <classes>
+      <class name="testCases.TC001_AccountRegistrationTest"/>
+      
+    </classes>
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="firefox" />
+  </test>
+   <test name="LoginTests2">
+    <classes>
+      
+       <class name="testCases.TC003_LoginDDT"/>
+    </classes>
+  </test>
+</suite>

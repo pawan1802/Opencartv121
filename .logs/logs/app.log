@@ -1,0 +1,18 @@
+2025-05-03 19:44:16 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-05-03 19:44:16 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my acoount link
+2025-05-03 19:44:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link  
+2025-05-03 19:44:17 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+2025-05-03 19:44:19 [main] INFO  testCases.TC001_AccountRegistrationTest - validating excepted msg
+2025-05-03 19:44:19 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Closing  TC001_AccountRegistrationTest******
+2025-05-03 19:46:44 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-05-03 19:46:45 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my acoount link
+2025-05-03 19:46:45 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link  
+2025-05-03 19:46:45 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+2025-05-03 19:46:46 [main] INFO  testCases.TC001_AccountRegistrationTest - validating excepted msg
+2025-05-03 19:46:47 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Closing  TC001_AccountRegistrationTest******
+2025-05-03 19:47:49 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest******
+2025-05-03 19:47:49 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on my acoount link
+2025-05-03 19:47:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link  
+2025-05-03 19:47:50 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+2025-05-03 19:47:52 [main] INFO  testCases.TC001_AccountRegistrationTest - validating excepted msg
+2025-05-03 19:47:52 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Closing  TC001_AccountRegistrationTest******
